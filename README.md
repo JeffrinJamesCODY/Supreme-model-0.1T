@@ -7,3 +7,5 @@ These models would get better over-time slowly and gradualy, the best thing is t
 P1 is the first family of Supreme models, it's specifically to construct the Intelligence tuning network for for AI systems. P1 will power IPU's or Intelligence Processing Unit which will be software based and Hardware based in future depending on the situation.
 
 Supreme P1 is an Intelligence Tuning AI sytem that can power any consumer AI system that needs Intelligence tuning. 
+
+SP1 will be available to the building of Aster Systems and fine tuning it's models for agentic works.
