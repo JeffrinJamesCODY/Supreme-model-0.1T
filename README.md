@@ -9,3 +9,5 @@ P1 is the first family of Supreme models, it's specifically to construct the Int
 Supreme P1 is an Intelligence Tuning AI sytem that can power any consumer AI system that needs Intelligence tuning. 
 
 SP1 will be available to the building of Aster Systems and fine tuning it's models for agentic works.
+
+Supreme Prime Models are the part of Supreme Family.
