@@ -14,4 +14,4 @@ Supreme Prime Models are the part of Supreme Family.
 Supreme Models will provide the intelligence that is needed for the Aster Systems and tuning will be seamslessly integrated into the Aster Intelligence Systems. SP1 will be trained on intelligent Open Source data that is needed to power agentic systems to HANDLE AND BUILD NEEDED AI INFRASTRUCTURE. SP1 will also contain the Human Engine needed to power Gyrrow's Next-Gen AI systems that will be totally agentic 
 SP1 infrastructure will be the backbone of Aster's AI systems 
 
-SP1 will be integrated into stealths systems
+SP1 will be integrated into stealths systems, The model is built
